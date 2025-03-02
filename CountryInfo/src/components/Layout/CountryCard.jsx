@@ -34,4 +34,4 @@ const CountryCard = ({ country }) => {
       );
 }
 
-export default CountryCard
+export default CountryCard;
